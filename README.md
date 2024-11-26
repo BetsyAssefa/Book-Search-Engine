@@ -18,9 +18,9 @@ Description
 
 WEBSITE Gif :
 
-/Users/betsy/Desktop/Book-Search-Engine/Devlope/Assets/21-mern-homework-demo-01.gif
+[gif] </Users/betsy/Desktop/Book-Search-Engine/Devlope/Assets/21-mern-homework-demo-01.gif>
 
-/Users/betsy/Desktop/Book-Search-Engine/Devlope/Assets/21-mern-homework-demo-02.gif
+</Users/betsy/Desktop/Book-Search-Engine/Devlope/Assets/21-mern-homework-demo-02.gif.>
 
 /Users/betsy/Desktop/Book-Search-Engine/Devlope/Assets/21-mern-homework-demo-03.gif
 
