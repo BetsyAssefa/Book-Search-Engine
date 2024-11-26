@@ -10,19 +10,19 @@ Features
 Technologies Used
 Installation
 Usage
-Screenshots
 License
 Contributing
 Questions
 Description
 
-WEBSITE Gif :
+Website gifs:
 
-[gif] </Users/betsy/Desktop/Book-Search-Engine/Devlope/Assets/21-mern-homework-demo-01.gif>
+![21-mern-homework-demo-01-1](https://github.com/user-attachments/assets/54c12d72-f6dc-4168-a797-67f98857ebe3)
+![21-mern-homework-demo-02-1](https://github.com/user-attachments/assets/8baf6d7c-6e46-47f9-9f95-b53ccb8c4eee)
+![21-mern-homework-demo-03-1](https://github.com/user-attachments/assets/4bf376fd-89d7-44e8-a7c0-fe7d36a4b2a9)
 
-</Users/betsy/Desktop/Book-Search-Engine/Devlope/Assets/21-mern-homework-demo-02.gif.>
 
-/Users/betsy/Desktop/Book-Search-Engine/Devlope/Assets/21-mern-homework-demo-03.gif
+
 
 The Book Search Engine is designed to provide a user-friendly platform to search for books, view book details, and save books to a personal favorites list. It integrates with the Google Books API to fetch book data, offering a wide array of search results. Registered users can manage their saved books and enjoy a personalized experience.
 
